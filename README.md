@@ -13,5 +13,5 @@ Construimos todo o app, usando swift, usamos gerenciamento de memoria ARC, contr
 <img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-09 at 21.58.29.png" width="80%" />
 </div>
 <div align="center">
-<img src="https://github.com/stenioLim/Planet-Simulation-in-Python/blob/main/Screen%20Shot%202023-03-15%20at%2016.55.35.png" width="80%" />
+<img src="Simulator Screenshot - iPhone 15 Pro Max - 2024-06-09 at 21.58.39.png" width="80%" />
 </div>
